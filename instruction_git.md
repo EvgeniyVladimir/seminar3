@@ -1,6 +1,6 @@
 # Инструкция по работе с Git
 
-![Логотип Git](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
+![Логотип Git](Git-Logo-2Color.png)
 
 Git — система контроля версий.
 
